@@ -7,7 +7,7 @@ public class TestB {
 	@Test
 	public void CreateContact()
 	{
-		System.out.println("Contact Modified");
+		System.out.println("Contact Created");
 	}
 
 }
